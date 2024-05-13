@@ -4,3 +4,5 @@ engine = create_engine(
     "postgresql+psycopg2://fotovoltaica:TSAL6ujJn8pD7Nq@150.162.142.79/fotovoltaica", 
     echo=False
 )
+
+pasta = r'C:\Users\acaro\OneDrive\Documents\Codigos_GIT'
